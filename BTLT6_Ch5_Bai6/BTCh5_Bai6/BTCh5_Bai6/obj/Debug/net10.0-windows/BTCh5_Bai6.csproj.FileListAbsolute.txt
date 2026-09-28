@@ -1,0 +1,36 @@
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\bin\Debug\net10.0-windows\BTCh5_Bai6.exe
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\bin\Debug\net10.0-windows\BTCh5_Bai6.deps.json
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\bin\Debug\net10.0-windows\BTCh5_Bai6.runtimeconfig.json
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\bin\Debug\net10.0-windows\BTCh5_Bai6.dll
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\bin\Debug\net10.0-windows\BTCh5_Bai6.pdb
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.FormChinh.resources
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.FormGhiChu.resources
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.csproj.GenerateResource.cache
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.AssemblyInfoInputs.cache
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.AssemblyInfo.cs
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.csproj.CoreCompileInputs.cache
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.dll
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\refint\BTCh5_Bai6.dll
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.pdb
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.genruntimeconfig.cache
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\ref\BTCh5_Bai6.dll
+C:\Users\V.Phat\Documents\Code\C#\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.csproj.Up2Date
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\bin\Debug\net10.0-windows\BTCh5_Bai6.exe
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\bin\Debug\net10.0-windows\BTCh5_Bai6.deps.json
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\bin\Debug\net10.0-windows\BTCh5_Bai6.runtimeconfig.json
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\bin\Debug\net10.0-windows\BTCh5_Bai6.dll
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\bin\Debug\net10.0-windows\BTCh5_Bai6.pdb
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.FormChinh.resources
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.FormGhiChu.resources
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.csproj.GenerateResource.cache
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.AssemblyInfoInputs.cache
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.AssemblyInfo.cs
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.csproj.CoreCompileInputs.cache
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.dll
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\refint\BTCh5_Bai6.dll
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.pdb
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.genruntimeconfig.cache
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\ref\BTCh5_Bai6.dll
+C:\Users\Do Nhat Thanh\BTCh5_Bai6\BTCh5_Bai6\obj\Debug\net10.0-windows\BTCh5_Bai6.csproj.Up2Date
